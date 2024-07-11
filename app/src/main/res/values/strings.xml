@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exrate</string>
+    <string name="failed_to_fetch_data_error">Failed to fetch data. Please try again</string>
+    <string name="item_header_number">#</string>
+    <string name="item_header_coin">coin</string>
+    <string name="item_header_price">price</string>
+    <string name="item_header_24h">24h</string>
+    <string name="item_header_market_cap">market cap</string>
+    <string name="details_placeholder">Details for %s\n\nWork in progress…</string>
+</resources>
